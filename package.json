@@ -1,0 +1,20 @@
+{
+  "name": "autoteamscall",
+  "version": "1.0.0",
+  "description": "Azure Function: create Teams meeting via Graph and email join link",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "azure-functions-core-tools": "^4.5.0",
+    "node-fetch": "2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+
+
+    "AZ_TENANT_ID": "f1b7fcf9-cbc7-4ae0-9e33-2482046cceac",
+    "AZ_CLIENT_ID": "2e2c1b8c-d597-4c5f-a813-e2d110cfe219",
+    "AZ_CLIENT_SECRET": "Irc8Q~S3bGIZLxZrzWauFES3gEJtw5HOqQeLVbY2",
+
+
+    "GRAPH_SCOPE": "https://graph.microsoft.com/.default"
+  }
+}
